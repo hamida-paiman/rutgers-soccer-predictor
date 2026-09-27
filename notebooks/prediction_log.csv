@@ -1,0 +1,2 @@
+date,opponent,home_away,model_version,win_prob,draw_prob,loss_prob,predicted_outcome,actual_outcome,actual_score
+2026-09-25,Washington,Away,recency_weighted,0.223381807017826,0.1936321696224389,0.5718827642776311,L,L,1-4
